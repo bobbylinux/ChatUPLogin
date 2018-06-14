@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ChatUP</string>
+    <string name="autore">Autore</string>
+    <string name="messaggio">Messaggio</string>
 </resources>
